@@ -3,6 +3,7 @@
   "scripts": {
   },
   "env": {
+    "cool": "beans"
   },
   "addons": [
 
